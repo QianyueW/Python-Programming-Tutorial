@@ -1,6 +1,7 @@
 # Python for Everybody Specialization Assignment
-Basic level of Python programming. Learn the most important language for Data Science!<br />
-This is my assignment code for Coursera Python Specialization
+
+This is my assignment code for Coursera Python Specialization, hope to help you somehow ^_^<br />
+Because the first two courses are relatively simple, the code of them is not included here. If you have some questions or want to discuss further, please contact me via email: qianyueww@gmail.com
 	<br />
 	<br />
 <ul>
